@@ -45,7 +45,9 @@
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeremia-dev&repo=project-deting)](https://github.com/yeremia-dev/project-deting) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chandrasitinjak&repo=tobazone)](https://github.com/chandrasitinjak/tobazone)
   
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ucokpel1112&repo=PA-III-02-2020)](https://github.com/ucokpel1112/PA-III-02-2020)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ucokpel1112&repo=PA-III-02-2020)](https://github.com/ucokpel1112/PA-III-02-2020) 
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helmuth12081999&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
