@@ -32,7 +32,19 @@
 
 ---
 
-<img align="left" alt="Helmuth's GitHub Stats" src="https://github-readme stats.codestackr.vercel.app/api?username=helmuth12081999&show_icons=true&hide_border=true" />
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <br>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helmuth12081999&show_icons=true&theme=radical)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jansennn&repo=Plan-it-FE)](https://github.com/jansennn/Plan-it-FE) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jansennn&repo=Plan-it-BE)](https://github.com/jansennn/Plan-it-BE)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeremia-dev&repo=project-deting)](https://github.com/yeremia-dev/project-deting) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chandrasitinjak&repo=tobazone)](https://github.com/chandrasitinjak/tobazone)
+  
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ucokpel1112&repo=PA-III-02-2020)](https://github.com/ucokpel1112/PA-III-02-2020)
+
+</details>
 
 [instagram]: https://www.instagram.com/helmuth.tampubolon/
 [linkedin]: https://www.linkedin.com/in/helmuth-simon-tampubolon-18935717a/
