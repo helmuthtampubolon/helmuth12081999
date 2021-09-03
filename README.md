@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Helmuth Simon Tampubolon
 
-## I'm a student from Del Institute of Technology
+## I'm a freshgraduate from Del Institute of Technology
 - 👯 I am a student majoring in software engineering technology
 - 🌱 I am currently learning everything.
 - ⚡ I am interested in software development, especially in backend development
